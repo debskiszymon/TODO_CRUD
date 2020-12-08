@@ -1,5 +1,5 @@
 # TODO_CRUD
-# pip install requirements.txt 
-# run: runserver.py
-# go to http://127.0.0.1:5000/todos
-# enjoy the app
+# 1/ pip install requirements.txt 
+# 2/ run: runserver.py
+# 3/ go to http://127.0.0.1:5000/todos
+# 4/ enjoy the app
